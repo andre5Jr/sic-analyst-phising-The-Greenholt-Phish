@@ -27,6 +27,7 @@ Project Overview:
 This lab simulates a real-world phishing investigation scenario. The exercise begins with a suspicious email received by a user. The objective is to analyze the email header, origin, and attachment to answer targeted investigative questions. Through this hands-on lab, the goal is to build a foundational understanding of phishing indicators and forensic processes related to email-based threats.
 
 Task Breakdown
+
 ✏️ Task 1: Identify the Transfer Reference Number
 Objective: What is the Transfer Reference Number listed in the email's Subject?
 
