@@ -131,3 +131,34 @@ Build detection rules for SPF/DMARC failures
 Incorporate YARA or Sigma rules to catch similar phishing attempts
 Test email gateway filters using simulated phishing scenarios
 
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/1-1.png)   
+
+![image alt]https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/2-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/3-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/4-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/5-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/6-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/7-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/7-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/8-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/8-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/9-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/10-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/11-1.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/11-2.png)   
+
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/12-1.png)  
+
+
