@@ -1,1 +1,1 @@
-# sic-analyst-phising-The-Greenholt-Phish
+# soc-analyst-phising-The-Greenholt-Phish
