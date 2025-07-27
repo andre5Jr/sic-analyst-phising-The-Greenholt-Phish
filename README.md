@@ -28,7 +28,6 @@ This lab simulates a real-world phishing investigation scenario. The exercise be
 
 Task Breakdown
 ✏️ Task 1: Identify the Transfer Reference Number
-
 Objective: What is the Transfer Reference Number listed in the email's Subject?
 
 Method: Review the email subject line in the provided header or email interface. The reference number is often in a structured format (e.g., numeric or alphanumeric).
