@@ -133,7 +133,7 @@ Test email gateway filters using simulated phishing scenarios
 
 ![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/1-1.png)   
 
-![image alt]https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/2-1.png)   
+![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/2-1.png)   
 
 ![image alt](https://github.com/andre5Jr/soc-analyst-phising-The-Greenholt-Phish/blob/27c2a666742dc5b0caa6d1cca0dd5ecfbd1174ba/3-1.png)   
 
